@@ -1,0 +1,3 @@
+display_name: Facebook BM Ads
+short_description: Pull Meta/BM ads data and diagnose scale, pause, ROAS, CPA, and tracking issues.
+default_prompt: Use this skill to fetch Facebook Business Manager advertising data, analyze accounts, campaigns, ad sets, and ads, and produce scale or pause recommendations with correct purchase/action alias handling.

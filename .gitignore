@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+data/facebook_token.txt
+data/reports/
+facebook_ads_monitor/reports/
+*.log
+.DS_Store
+Thumbs.db
+

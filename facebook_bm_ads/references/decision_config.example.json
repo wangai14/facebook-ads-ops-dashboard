@@ -1,0 +1,15 @@
+{
+  "defaults": {
+    "target_cpa": 8,
+    "target_roas": 2.5,
+    "min_spend_to_diagnose": 20,
+    "min_link_clicks_to_diagnose": 20,
+    "fatigue_frequency": 2.5
+  },
+  "accounts": {
+    "act_123456789": {
+      "target_cpa": 7,
+      "target_roas": 3
+    }
+  }
+}
